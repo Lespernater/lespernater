@@ -1,17 +1,19 @@
 
 
-Hi 👋 I'm Nate — AI engineer and bioinformatics researcher specializing in machine learning and intelligent systems for ecological and genomic analysis.
+### Hi 👋 
+
+I'm Nate — AI engineer and bioinformatics researcher specializing in machine learning and intelligent systems for ecological and genomic analysis.
 
 ---
 
-**Programming languages:**
+**Programming Languages:**
 
 ![Python](https://img.shields.io/badge/-Python-735f10?style=flat-square&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r)
 ![Bash](https://img.shields.io/badge/-Bash-0d1e75?style=flat-square&logo=gnu-bash)
 ![SQL](https://img.shields.io/badge/-SQL-0d1e75?style=flat-square&logo=postgresql)
 
-**AI/ML and Deep Learning:**
+**Artificial Intelligence and Machine Learning:**
 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-031a07?style=flat-square&logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-031a07?style=flat-square&logo=tensorflow)
@@ -64,7 +66,7 @@ Hi 👋 I'm Nate — AI engineer and bioinformatics researcher specializing in m
 
 ### Past Collaborations
 
-University of Guelph Machine Learning Research Group (MLRG) • Vector Institute • USA National Phenology Network • Canadian Food Inspection Agency • Centre for Biodiversity Genomics • AI and Biodiversity Change Global Centre
+University of Guelph's Machine Learning Research Group (MLRG) • Vector Institute • USA National Phenology Network • Canadian Food Inspection Agency • Centre for Biodiversity Genomics • AI and Biodiversity Change Global Centre
 
 ---
 
